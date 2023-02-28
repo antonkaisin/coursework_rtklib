@@ -1,0 +1,19 @@
+% program   : RTKLIB ver.2.4.2
+% inp file  : javd_20110320.11o
+% inp file  : javd_20110320.11N
+% inp file  : igs20110320.sp3
+% inp file  : igs20110320.clk_30s
+% obs start : 2011/03/20 00:00:00.0 GPST (week1628      0.0s)
+% obs end   : 2011/03/20 23:59:55.0 GPST (week1628  86395.0s)
+% pos mode  : ppp-static
+% solution  : combined
+% elev mask : 15.0 deg
+% dynamics  : off
+% tidecorr  : on
+% tropo opt : est ztd
+% ephemeris : precise
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
+2011/03/20 00:00:00.0   59.942261364   30.295445452    28.9120   6   7   0.0018   0.0028   0.0043   0.0006  -0.0003  -0.0013   0.00    0.0
